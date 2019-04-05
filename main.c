@@ -69,7 +69,7 @@ int main()
                 printf("Para calcular el factorial el numero debe ser positivo");
             }
 
-            printf("Ya están los resultados!!\n\n");
+            printf("Ya estan los resultados!!\n\n");
             flag=1;
             break;
         case 4:
@@ -92,7 +92,7 @@ int main()
             flag=0;
             break;
         default:
-            printf("\n\n\nEsa opcion no existe, ingrese un numero nuevamente\n\n\n");
+            printf("\n\n\nEsa opcion no existe, ingrese un numero nuevamente\n\najjaja\n");
         }
      }while (menu!=0);
 

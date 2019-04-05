@@ -1,48 +1,47 @@
 #include <stdio.h>
 
-/** \brief sumar dos flotantes
+/** \brief Recibe los numeros ingresados y devuelve el resultado de la suma
  *
- * \param primer numero a sumar
- * \param segundo numero a sumar
- * \return resultado de la suma
+ * \param Primer numero a sumar
+ * \param Segundo numero a sumar
+ * \return Resultado de la suma
  *
  */
 
 float suma (float num1,  float num2);
 
-/** \brief restar dos flotantes
+/** \brief Recibe los numeros ingresados y devuelve el resultado de la resta
  *
- * \param primer numero a restar
- * \param segundo numero a restar
- * \return resultado de la resta
+ * \param Primer numero a restar
+ * \param Segundo numero a restar
+ * \return Resultado de la resta
  *
  */
 
 float resta (float num1,  float num2);
 
-/** \brief dividir dos numeros
+/** \brief Recibe los numeros ingresados y devuelve el resultado de la division
  *
- * \param dividendo
- * \param divisor
- * \return resultado de la division
+ * \param Dividendo
+ * \param Divisor
+ * \return Resultado de la division
  *
  */
 float division (float num1,  float num2);
 
-/** \brief multiplicar dos numeros
+/** \brief Recibe los numeros ingresados y devuelve el resultado de la multiplicacion
  *
- * \param primer numero a multiplicar
- * \param segundo numero a multplicar
- * \return resultado de la multiplicacion
+ * \param Primer numero a multiplicar
+ * \param Segundo numero a multplicar
+ * \return Resultado de la multiplicacion
  *
  */
 float multiplicacion (float num1,  float num2);
 
 
-/** \brief Conseguir el factorial de un numero
- *
+/** \brief Recibe el numero ingresado y devuelve el factorial de un numero
  * \param Numero del cual se quiere saber el factorial
- * \return factorial del numero ingresado
+ * \return Factorial del numero ingresado
  *
  */
 

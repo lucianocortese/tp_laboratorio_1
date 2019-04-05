@@ -31,13 +31,13 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="../Tp.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="../tp.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="tp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tp.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
